@@ -10,8 +10,7 @@ Works with many Cisco CatXXXX-Switch-Series
     service unsupported-transceiver
     no errdisable detect cause gbic-invalid
 
-**Hint
-- not all SFP+-Moduls will be correct detected** 
+**Hint - not all SFP+-Moduls will be correct detected** 
 
 Real-Life Szenario:
 
