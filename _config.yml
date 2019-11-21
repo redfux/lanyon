@@ -3,7 +3,7 @@ permalink:           /:title/
 # Setup
 title:               redfux's mdkb 
 tagline:             'my Markdown Knowledge Base'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'my personal knowledge base to share with the world'
 url:                 ''
 baseurl:             '/mdkb'
 paginate:            5
@@ -19,4 +19,4 @@ footer-links:
   github: https://github.com/redfux
 
 # Custom vars
-version:             1.0.0
+version:             0.0.1
