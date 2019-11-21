@@ -5,14 +5,14 @@ title: 3rd-Party SFPs in Cisco Switches
 
 Works with many Cisco CatXXXX-Switch-Series
 
-## CLI
+# CLI
 
     service unsupported-transceiver
     no errdisable detect cause gbic-invalid
 
-## Hint 
+### Hint 
 
-**- not all SFP+-Modula will be correct detected** 
+**- not all SFP+-Moduls will be correct detected** 
 
 Real-Life Szenario:
 
