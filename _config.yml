@@ -6,7 +6,7 @@ tagline:             'my Markdown Knowledge Base'
 description:         'my personal knowledge base to share with the world'
 url:                 ''
 baseurl:             '/mdkb'
-paginate:            5
+paginate:            100
 
 # About/contact
 author:
