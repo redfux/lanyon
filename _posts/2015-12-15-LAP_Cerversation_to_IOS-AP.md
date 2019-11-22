@@ -1,5 +1,6 @@
 ---
-Title: L-AP Converting to IOS-AP
+layout: post
+title: L-AP Converting to IOS-AP
 Date: 2015-12-15 09:51 
 Tags: config,cisco,wlan
 ---
