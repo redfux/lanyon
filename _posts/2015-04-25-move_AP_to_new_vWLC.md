@@ -1,9 +1,9 @@
 ---
 layout: post
-Title: Move APs to a new vWLC
-Date:  2015-04-25 11:47
-Tags: cisco,wlan,knowledge
-Published: true
+title: Move APs to a new vWLC
+tate:  2015-04-25 11:47
+dags: cisco,wlan,knowledge
+published: true
 ---
 
 %CAPWAP-1-SSC_CERT_AUTH_FAILED: Failed to authorize controller, SSC certificate validation failed

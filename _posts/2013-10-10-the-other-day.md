@@ -1,9 +1,9 @@
 ---
 layout: post
-Title: the other day
-Date:  2013-10-10 21:28 
-Tags: off-topic
-Published: true
+title: the other day
+tate:  2013-10-10 21:28 
+dags: off-topic
+published: true
 ---
 
 Only the truth, nothing else:

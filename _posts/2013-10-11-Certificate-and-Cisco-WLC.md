@@ -1,9 +1,9 @@
 ---
 layout: post
-Title: Certificate and Cisco WLC
-Date:  2013-10-11 12:58 
-Tags: wireless,cisco,knowledge
-Published: true
+title: Certificate and Cisco WLC
+tate:  2013-10-11 12:58 
+dags: wireless,cisco,knowledge
+published: true
 ---
 
 **!!!only with openssl version  [0.9.8x] [winopenssl]!!!**

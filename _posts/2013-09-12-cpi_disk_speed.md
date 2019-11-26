@@ -1,8 +1,8 @@
 ---
 layout: post
-Title: CPI Disk IOPS-Test
-Date: 2013-9-12 10:20 
-Tags: prime,cisco,knowledge,links
+title: CPI Disk IOPS-Test
+tate: 2013-9-12 10:20 
+dags: prime,cisco,knowledge,links
 ---
 
 To check the disk IO speed you will have to access the underlying shell.

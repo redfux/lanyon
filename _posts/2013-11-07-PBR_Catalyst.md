@@ -1,9 +1,9 @@
 ---
 layout: post
-Title: PBR
-Date:  2013-11-6 22:31
-Tags: cisco,routing
-Published: true
+title: PBR
+tate:  2013-11-6 22:31
+dags: cisco,routing
+published: true
 ---
 
 ###HowTo configure PBR on Cisco Catalyst-Switch

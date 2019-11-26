@@ -1,9 +1,9 @@
 ---
 layout: post
-Title: Steelhead - Blacklisted SMB Connections 
-Date:  2014-12-15 20:41
-Tags: riverbed,knowledge,steelhead
-Published: true
+title: Steelhead - Blacklisted SMB Connections 
+tate:  2014-12-15 20:41
+dags: riverbed,knowledge,steelhead
+published: true
 ---
 
 
