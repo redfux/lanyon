@@ -16,7 +16,7 @@ author:
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: https://github.com/redfux
+  github: redfux/mdkb
 
 # Custom vars
 version:             0.0.1
