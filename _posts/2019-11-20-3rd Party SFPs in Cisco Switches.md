@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 3rd-Party SFPs in Cisco Switches
+date: 2019-11-20
+tags: lan switching cisco hardware
 ---
 
 Works with many Cisco CatXXXX-Switch-Series
