@@ -7,7 +7,6 @@ permalink: /about.md
 ..., why Not!
 
 ----
-
 This page is a small knowledge base for my daily business.
 
 
