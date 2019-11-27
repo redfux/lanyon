@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /mdkb/about/
+permalink: //about/
 ---
 
 ..., why Not!
