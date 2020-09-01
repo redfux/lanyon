@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Move APs to a new vWLC
-tate:  2015-04-25 11:47
-dags: cisco,wlan,knowledge
+date:  2015-04-25 11:47
+tags: cisco,wlan,knowledge
 published: true
 ---
 

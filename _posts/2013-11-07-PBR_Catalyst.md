@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PBR
-tate:  2013-11-6 22:31
-dags: cisco,routing
+date:  2013-11-6 22:31
+tags: cisco,routing
 published: true
 ---
 

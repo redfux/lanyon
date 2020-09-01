@@ -1,8 +1,8 @@
 ---
 layout: post
 title: cheers
-tatein 2013-11-23 2:50  
-dags: off-topic
+date: 2013-11-23 2:50  
+tags: off-topic
 published: true
 ---
 

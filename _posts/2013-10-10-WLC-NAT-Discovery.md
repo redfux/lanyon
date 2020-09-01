@@ -1,8 +1,8 @@
 ---
 layout: post
 title: WLC NAT-Discovery for OEAPs
-tate:  2013-10-10 23:57 
-dags: cisco,wireless,knowledge
+date:  2013-10-10 23:57 
+tags: cisco,wireless,knowledge
 published: true
 ---
 

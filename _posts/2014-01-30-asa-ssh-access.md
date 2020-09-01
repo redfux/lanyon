@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ASA ssh access
-tate: 2014-1-30 14:47 
-dags: csico,asa
+date: 2014-1-30 14:47 
+tags: csico,asa
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: NTP-Config
-tate: 2013-09-12 00:22 
-dags: config,cisco,hp,switching,ntp
+date: 2013-09-12 00:22 
+tags: config,cisco,hp,switching,ntp
 ---
 
 Cisco

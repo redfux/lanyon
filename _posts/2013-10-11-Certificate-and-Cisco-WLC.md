@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Certificate and Cisco WLC
-tate:  2013-10-11 12:58 
-dags: wireless,cisco,knowledge
+date:  2013-10-11 12:58 
+tags: wireless,cisco,knowledge
 published: true
 ---
 

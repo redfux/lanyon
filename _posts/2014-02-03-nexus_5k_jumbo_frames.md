@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jumbo Frames @ Cisco Nexus 5k
-tate: 2014-2-3 13:44 
-dags: cisco,switching,nexus
+date: 2014-2-3 13:44 
+tags: cisco,switching,nexus
 published: true
 ---
 

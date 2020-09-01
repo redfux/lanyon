@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hidden Steelhead-Link for Connection-Pooling
-tate:  2013-10-9 23:40 
-dags: riverbed,knowledge,steelhead
+date:  2013-10-9 23:40 
+tags: riverbed,knowledge,steelhead
 published: true
 ---
 

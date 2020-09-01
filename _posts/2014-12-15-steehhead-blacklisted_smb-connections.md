@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Steelhead - Blacklisted SMB Connections 
-tate:  2014-12-15 20:41
-dags: riverbed,knowledge,steelhead
+date:  2014-12-15 20:41
+tags: riverbed,knowledge,steelhead
 published: true
 ---
 

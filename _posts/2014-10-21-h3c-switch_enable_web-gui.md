@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Config Example for enabling Web-GUI on HP A-Series Switches(aka H3C/3Com)
-tate: 2014-10-22 09:45
-dags: hp,switching,tricky knoledge
+date: 2014-10-22 09:45
+tags: hp,switching,tricky knoledge
 published: true
 ---
 

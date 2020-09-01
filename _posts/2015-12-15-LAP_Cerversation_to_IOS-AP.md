@@ -1,8 +1,8 @@
 ---
 layout: post
 title: L-AP Converting to IOS-AP
-tate: 2015-12-15 09:51 
-dags: config,cisco,wlan
+date: 2015-12-15 09:51 
+tags: config,cisco,wlan
 ---
 
     AP5475.d0f5.2ee7#debug capwap console cli 

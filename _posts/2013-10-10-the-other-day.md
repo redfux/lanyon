@@ -1,8 +1,8 @@
 ---
 layout: post
 title: the other day
-tate:  2013-10-10 21:28 
-dags: off-topic
+date:  2013-10-10 21:28 
+tags: off-topic
 published: true
 ---
 

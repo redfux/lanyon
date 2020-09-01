@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Static Routes via DHCP
-tate: 2014-06-04 10:23
-dags: cisco,routing,tricky knoledge
+date: 2014-06-04 10:23
+tags: cisco,routing,tricky knoledge
 published: true
 ---
 
