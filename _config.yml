@@ -4,7 +4,7 @@ permalink:           /:title/
 title:               redfux's mdkb 
 tagline:             'my Markdown Knowledge Base'
 description:         'my personal knowledge base to share with the world'
-url:                 'https://redfux.github.io/mdkb/'
+url:                 'https://redfux.github.io/mdkb'
 baseurl:             'https://redfux.github.io/mdkb/'
 paginate:            100
 
