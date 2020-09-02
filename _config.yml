@@ -5,7 +5,7 @@ title:               redfux's mdkb
 tagline:             'my Markdown Knowledge Base'
 description:         'my personal knowledge base to share with the world'
 url:                 'https://redfux.github.io/mdkb'
-baseurl:             ''
+baseurl:             '/mdkb'
 paginate:            100
 
 # About/contact
