@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Hash calculation
 date: 2020-09-01 11:00 
 tags: knowledge,hash,windows,linux
